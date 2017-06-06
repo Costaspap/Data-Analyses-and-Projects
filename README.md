@@ -1,4 +1,4 @@
-# Workable Coin Toss Puzzle
-My solution to the data science puzzle published by Workable
+# Repository for my data science projects
 
-The code is written in R
+1. Workable Data Science Puzzle
+2. Imdb Reviews Sentiment Analysis
