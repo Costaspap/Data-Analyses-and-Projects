@@ -42,18 +42,21 @@ We only want to keep the head occurences.
 
 ```{r}
 heads = sapply(data,function(x) gsub("T","",x))
+heads[1:5]
 ```
 
 Then we find the number of heads.
 
 ```{r}
 nheads = apply(heads,2,nchar)
+nheads[1:5]
 ```
 
 Find the head propability for each experiment.
 
 ```{r}
 headprop = nheads/50
+headprop[1:5]
 ```
 
 Let's make them look nice
