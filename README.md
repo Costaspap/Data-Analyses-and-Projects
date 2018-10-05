@@ -2,8 +2,11 @@
 
 You can see the analysis files in the links below as well as in the respective repository folders.
 
-1. Workable Coin Puzzle in python:
+1. Kaggle Competition - Digit Recognizer in Keras:
+https://nbviewer.jupyter.org/github/Costaspap/Data-Analyses-and-Projects/blob/master/Kaggle%20-%20Digit%20Recognizer%20in%20Keras/Digit_Recognizer_in_Keras.ipynb
+
+2. Workable Coin Toss Puzzle in Python:
   https://nbviewer.jupyter.org/github/Costaspap/Data-science-mini-projects/blob/master/Workable%20Coin%20Toss%20Puzzle/Coin%20Toss%20Puzzle.ipynb
 
-2. Imdb Reviews Sentiment Analysis in R:
+3. Imdb Reviews Sentiment Analysis in R:
 https://github.com/Costaspap/Data-Analyses-and-Projects/blob/master/Imdb%20Reviews%20Sentiment%20Analysis/Imdb%20Sentiment%20Analysis.pdf
