@@ -2,7 +2,7 @@
 
 You can see the analysis files in the links below as well as in the respective repository folders.
 
-* Kaggle Competition - Digit Recognizer in Keras: [Here](https://nbviewer.jupyter.org/github/Costaspap/Data-Analyses-and-Projects/blob/master/Kaggle%20-%20Digit%20Recognizer%20in%20Keras/Digit_Recognizer_in_Keras.ipynb)
+* Kaggle Competition - Digit Recognizer in Keras: [Here](https://nbviewer.jupyter.org/github/Costaspap/Data-Analyses-and-Projects/blob/master/Kaggle%20-%20Digit%20Recognizer%20in%20Keras/Digit_Recognizer_Keras.ipynb)
 
 * Weight Lifting Quality Prediction in R: [Here](http://costaspap.github.io/MachineLearning.html) and the relevant repository [Here](https://github.com/Costaspap/Machine-Learning-Coursera-Project)
 
