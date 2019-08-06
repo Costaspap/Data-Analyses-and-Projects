@@ -8,6 +8,6 @@ You can see the analysis files in the links below as well as in the respective r
 
 * Hyperspectral Image Unmixing and Classification in Python: [Here](https://nbviewer.jupyter.org/github/Costaspap/Data-Analyses-and-Projects/blob/master/Hyperspectral_Image_Unmixing_and_Classification_Project/Hyperspectral_Image_Unmixing_and_Classification.ipynb)
 
-* Workable Coin Toss Puzzle in Python: [Here](https://nbviewer.jupyter.org/github/Costaspap/Data-science-mini-projects/blob/master/Workable%20Coin%20Toss%20Puzzle/Coin%20Toss%20Puzzle.ipynb)
+* Workable Coin Toss Puzzle in Python: [Here](https://nbviewer.jupyter.org/github/Costaspap/Data-Analyses-and-Projects/blob/master/Workable_Coin_Toss_Puzzle/Coin_Toss_Puzzle.ipynb)
 
 * Imdb Reviews Sentiment Analysis in R: [Here](https://github.com/Costaspap/Data-Analyses-and-Projects/blob/master/Imdb_Reviews_Sentiment_Analysis/Imdb_Sentiment_Analysis.pdf)
