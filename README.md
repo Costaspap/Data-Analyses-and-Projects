@@ -10,4 +10,4 @@ You can see the analysis files in the links below as well as in the respective r
 
 * Workable Coin Toss Puzzle in Python: [Here](https://nbviewer.jupyter.org/github/Costaspap/Data-science-mini-projects/blob/master/Workable%20Coin%20Toss%20Puzzle/Coin%20Toss%20Puzzle.ipynb)
 
-* Imdb Reviews Sentiment Analysis in R: [Here](https://github.com/Costaspap/Data-Analyses-and-Projects/blob/master/Imdb%20Reviews%20Sentiment%20Analysis/Imdb%20Sentiment%20Analysis.pdf)
+* Imdb Reviews Sentiment Analysis in R: [Here](https://github.com/Costaspap/Data-Analyses-and-Projects/blob/master/Imdb_Reviews_Sentiment_Analysis/Imdb_Sentiment_Analysis.pdf)
