@@ -6,7 +6,7 @@ You can see the analysis files in the links below as well as in the respective r
 
 * Weight Lifting Quality Prediction in R: [Here](http://costaspap.github.io/MachineLearning.html) and the relevant repository [Here](https://github.com/Costaspap/Machine-Learning-Coursera-Project)
 
-* Hyperspectral Image Unmixing and Classification in Python: [Here](https://nbviewer.jupyter.org/github/Costaspap/Data-Analyses-and-Projects/blob/master/Hyperspectral%20Image%20Unmixing%20and%20Classification%20Project/Hyperspectral%20Image%20Unmixing%20and%20Classification.ipynb)
+* Hyperspectral Image Unmixing and Classification in Python: [Here](https://nbviewer.jupyter.org/github/Costaspap/Data-Analyses-and-Projects/blob/master/Hyperspectral_Image_Unmixing_and_Classification_Project/Hyperspectral_Image_Unmixing_and_Classification.ipynb)
 
 * Workable Coin Toss Puzzle in Python: [Here](https://nbviewer.jupyter.org/github/Costaspap/Data-science-mini-projects/blob/master/Workable%20Coin%20Toss%20Puzzle/Coin%20Toss%20Puzzle.ipynb)
 
